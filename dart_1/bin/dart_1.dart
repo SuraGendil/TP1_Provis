@@ -43,6 +43,9 @@ void main() async {
   // search yang akan digunakan untuk mencari buku.
   final search = "Algoritma";
 
+  // jika search yang salah saat akan digunakan untuk mencari buku.
+  // final search = "game dev";
+
   // Mencetak pencarian buku.
   print("Mencari buku dengan kata kunci: $search");
 
