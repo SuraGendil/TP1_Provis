@@ -21,6 +21,11 @@ Dalam program ini, input untuk melakukan pencarian buku masih menggunakan hardco
 
 ![image](https://github.com/SuraGendil/TP1_Provis/assets/117885047/bedccd8f-6878-418c-9175-74f9555b9ca7)
 
+Jika input tidak ditemukan
+
+![image](https://github.com/SuraGendil/TP1_Provis/assets/117885047/3ae85189-6c41-4733-8401-178d09cb8347)
+
+
 
 
 
